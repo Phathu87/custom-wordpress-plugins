@@ -9,8 +9,6 @@ This repository contains various custom plugins created to enhance WordPress fun
 ## Plugins
 
 - **PDGrandstore Inventory Plugin**: This plugin automatically syncs WooCommerce inventory from the supplier's XML feed, updating product stock, price, and images.
-- **Plugin 2**: Brief description of the plugin functionality.
-- **Plugin 3**: Brief description of the plugin functionality.
 
 (Continue adding descriptions for each plugin as I develop them.)
 
